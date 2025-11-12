@@ -20,8 +20,8 @@ buildPythonApplication {
   src = fetchFromGitHub {
     owner = "tiiuae";
     repo = "vhotplug";
-    rev = "fc9da0c45d7ab102c428134f4cb898c728194395";
-    hash = "sha256-qeTydDm4UHTbirzbsiE7TUMjo8YeU98qcBFfCQpRG5U=";
+    rev = "7ffacc014b7565a102eee3eb7adc7a28740e6944";
+    hash = "sha256-fMh0IwuXeTMUZjuvEz5CjbVnAtEDrFYMWXE+yrQebGI=";
   };
 
   build-system = [
